@@ -1,2 +1,25 @@
-# 730098eb-llm-fine-tuning-training-cli
-Tired of explaining fine-tuning progress to clients who glaze over at loss curves? This dashboard turns technical metrics into clear, client-friendly reports that prove ROI.  This is the only reporting template designed specifically to bridge the gap between complex LLM fine-tuning data and client communication. It transforms raw training logs into
+# LLM Fine-Tuning & Training Client Reporting Dashboard Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVq5kD7r1e2Me00gUcd0n2n)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVq5kD7r1e2Me00gUcd0n2n)
+
